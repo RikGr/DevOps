@@ -1,3 +1,1 @@
-# powershell
-
-All of my Powershell scripts 
+# DevOps Repo
