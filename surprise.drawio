@@ -1,0 +1,219 @@
+<mxfile host="app.diagrams.net" modified="2022-12-01T22:43:04.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="Q5h5e9-OxsTUbNpMOA4S" version="20.5.3" type="github">
+  <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
+    <mxGraphModel dx="1369" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Froukjes grote Marktplaats aankoop beslisboom&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="310" y="30" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-2" target="cbmwsGL8jix4jwU1fs1p-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-5" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.1789" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-2" target="cbmwsGL8jix4jwU1fs1p-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-8" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.104" y="-2" relative="1" as="geometry">
+            <mxPoint x="-132" y="-142" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-43" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="cbmwsGL8jix4jwU1fs1p-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.8895" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Heb ik het nodig?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="490" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.56;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-3" target="cbmwsGL8jix4jwU1fs1p-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-11" value="Ja&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.3938" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-3" target="cbmwsGL8jix4jwU1fs1p-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-13" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.3217" y="-3" relative="1" as="geometry">
+            <mxPoint x="-201" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Is het binnen 50 km af te halen?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-6" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Helaas!&lt;br&gt;&amp;nbsp;Sinterklaas raadt deze aankoop af&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="910" y="500" width="150" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-9" target="cbmwsGL8jix4jwU1fs1p-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-17" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.2908" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="cbmwsGL8jix4jwU1fs1p-9" target="cbmwsGL8jix4jwU1fs1p-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-46" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="cbmwsGL8jix4jwU1fs1p-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.8378" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Past het in de auto?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="510" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.57;exitY=0.97;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitPerimeter=0;" parent="1" source="cbmwsGL8jix4jwU1fs1p-14" target="cbmwsGL8jix4jwU1fs1p-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="550" />
+              <mxPoint x="520" y="550" />
+              <mxPoint x="520" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-21" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.1328" y="-3" relative="1" as="geometry">
+            <mxPoint x="-34" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.981;exitY=0.39;exitDx=0;exitDy=0;fontSize=12;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cbmwsGL8jix4jwU1fs1p-14" target="cbmwsGL8jix4jwU1fs1p-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-24" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.4978" y="-4" relative="1" as="geometry">
+            <mxPoint x="-109" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Ís er een beter IKEA alternatief&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-19" target="cbmwsGL8jix4jwU1fs1p-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-27" value="Ja&lt;br&gt;&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.2947" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="cbmwsGL8jix4jwU1fs1p-19" target="cbmwsGL8jix4jwU1fs1p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-13" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1iGPtm82k_AsOKl7fkwN-10">
+          <mxGeometry x="-0.8326" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Zou Laurien het kopen?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="550" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.47;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-23" target="cbmwsGL8jix4jwU1fs1p-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-33" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.331" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="cbmwsGL8jix4jwU1fs1p-23" target="cbmwsGL8jix4jwU1fs1p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-12" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1iGPtm82k_AsOKl7fkwN-11">
+          <mxGeometry x="-0.8693" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Zijn het krukken?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="380" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-31" target="cbmwsGL8jix4jwU1fs1p-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-39" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.9214" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-31" target="cbmwsGL8jix4jwU1fs1p-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-52" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-41" vertex="1" connectable="0">
+          <mxGeometry x="-0.216" y="-1" relative="1" as="geometry">
+            <mxPoint x="39" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Kan er met een tikkie betaald worden?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="519" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.472;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cbmwsGL8jix4jwU1fs1p-40" target="1iGPtm82k_AsOKl7fkwN-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="457" y="970" />
+              <mxPoint x="545" y="970" />
+              <mxPoint x="545" y="920" />
+              <mxPoint x="630" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-3" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1iGPtm82k_AsOKl7fkwN-2">
+          <mxGeometry x="-0.5883" y="-1" relative="1" as="geometry">
+            <mxPoint x="-16" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="cbmwsGL8jix4jwU1fs1p-40" target="cbmwsGL8jix4jwU1fs1p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-9" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1iGPtm82k_AsOKl7fkwN-8">
+          <mxGeometry x="-0.8831" y="4" relative="1" as="geometry">
+            <mxPoint x="-9" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Moet er ter plaatse nog worden onderhandeld?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="400" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="cbmwsGL8jix4jwU1fs1p-48" target="cbmwsGL8jix4jwU1fs1p-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-51" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.9371" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="cbmwsGL8jix4jwU1fs1p-48" target="cbmwsGL8jix4jwU1fs1p-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-55" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="cbmwsGL8jix4jwU1fs1p-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.7306" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Is het een spiegel?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbmwsGL8jix4jwU1fs1p-53" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;HOERA! &lt;br&gt;SINTERKLAAS KEURT &lt;br&gt;DE AANKOOP GOED!&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="410" y="1170" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="1iGPtm82k_AsOKl7fkwN-1" target="cbmwsGL8jix4jwU1fs1p-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-7" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1iGPtm82k_AsOKl7fkwN-6">
+          <mxGeometry x="-0.8229" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1iGPtm82k_AsOKl7fkwN-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Weet je de afmetingen van het object?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="580" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
