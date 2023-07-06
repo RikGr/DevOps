@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T09:16:11.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.6.1" etag="QhHmxEhPx3n7hT9owtlT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T12:27:16.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="uZE-PTrshUMLkxeey3yF" version="21.6.1" type="github">
   <diagram name="Page-1" id="e2m_MjljalxlRMD_yO8g">
-    <mxGraphModel>
+    <mxGraphModel dx="2954" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-2" target="lhqSYNXSjxgQieMXIHJc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-2" value="Incident is created " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-4" target="lhqSYNXSjxgQieMXIHJc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-7" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhqSYNXSjxgQieMXIHJc-6">
+          <mxGeometry x="-0.2211" y="3" relative="1" as="geometry">
+            <mxPoint x="21" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-4" target="lhqSYNXSjxgQieMXIHJc-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-9" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhqSYNXSjxgQieMXIHJc-8">
+          <mxGeometry x="-0.4615" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-4" value="Is it Critical?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-10" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="430" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="527" as="sourcePoint" />
+            <mxPoint x="190" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-11" value="&lt;div&gt;Customer Lead gets Phone call &lt;br&gt;&lt;/div&gt;&lt;div&gt;and Slack message&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-12" target="lhqSYNXSjxgQieMXIHJc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-12" value="Customer Lead gets notified in Slack Channel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="495" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-13" target="lhqSYNXSjxgQieMXIHJc-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-16" value="Critical Confirmed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhqSYNXSjxgQieMXIHJc-15">
+          <mxGeometry x="0.4339" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-13" target="lhqSYNXSjxgQieMXIHJc-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-20" value="Critical not confirmed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhqSYNXSjxgQieMXIHJc-18">
+          <mxGeometry x="0.2534" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-13" value="Triage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-17" target="lhqSYNXSjxgQieMXIHJc-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-17" value="Customer Leads creates swarm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-19" value="Customer Leads contacts customer about next steps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-21" target="lhqSYNXSjxgQieMXIHJc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-21" value="Triage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-22" value="Incident lands on backlog based on severity and priority " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-30" target="lhqSYNXSjxgQieMXIHJc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-30" value="Customer Lead communicates progress " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lhqSYNXSjxgQieMXIHJc-31" target="lhqSYNXSjxgQieMXIHJc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-31" value="Customer Lead plans in Post Mortem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-32" value="Learnings and actions are communicated to customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-36" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="720" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-37" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="730" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lhqSYNXSjxgQieMXIHJc-38" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="740" width="30" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
